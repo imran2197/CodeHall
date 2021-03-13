@@ -11,7 +11,6 @@ const App = () => {
 			.then((res) => res.json())
 			.then((res) => setData(res));
 	}, []);
-	const handleSearch = () => {};
 	console.log(data);
 	return (
 		<>
