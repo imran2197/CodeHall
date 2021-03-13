@@ -1,5 +1,10 @@
 input {
-    width: 300px;
-    margin: 10px auto;
-    display: flex;
+	width: 300px;
+	margin: 10px auto;
+	display: flex;
+}
+
+.cards {
+	display: flex;
+	flex-wrap: wrap;
 }
