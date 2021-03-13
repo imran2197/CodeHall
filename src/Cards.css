@@ -1,5 +1,9 @@
 .card {
-    border: 1px solid black;
-    margin: 15px auto;
-    width: 450px;
+	border: 1px solid black;
+	margin: 15px auto;
+	width: 450px;
+}
+
+h2 {
+	text-align: center;
 }
